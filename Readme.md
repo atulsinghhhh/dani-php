@@ -28,3 +28,13 @@ Difference between get,post and request
 Use GET for fetching non-sensitive data.
 Use POST for sending sensitive or large amounts of data.
 REQUEST refers to the overall interaction (method, headers, data, etc.).
+
+## operators
+
+
+# PHP Operators
+
+Arthemtic operators
+Assignment operators
+Logical operators
+Comparsion operators
