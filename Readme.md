@@ -38,3 +38,10 @@ Arthemtic operators
 Assignment operators
 Logical operators
 Comparsion operators
+
+## Array
+
+
+Associative Arrays in PHP
+
+PHP, associative arrays are used to store key-value pairs, making them a versatile data structure for representing structured data.
